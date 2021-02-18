@@ -5,9 +5,9 @@ Code for the paper [_A bisector line field approach to interpolation of orientat
 ## How to reproduce the experiments of the paper
 
 - The orientation field reconstruction can be achieved by running 
-	```
-	matlab OFreconstruction.m
-	```
+```
+matlab OFreconstruction.m
+```
 Check the options at the top of the script to switch between the prepared target datasets (stored in GoodProcessed folder).
 
 Interpolation results will be stored in the InterpFingPrints folder (with an attached time stamp).
