@@ -2,6 +2,12 @@
 
 Code for the paper [_A bisector line field approach to interpolation of orientation fields_](https://arxiv.org/abs/1907.11449) by Nicolas Boizot and Ludovic Sacchelli.
 
+
+<p align="center">
+  <img src="https://github.com/sacchelli/Bisector/blob/main/Illustrations/Whorl_workflow.png" width="800" title="From rough fingerprint to smooth orientation field">
+</p>		
+
+
 ## How to reproduce the experiments of the paper
 
 - The orientation field reconstruction can be achieved by running 
@@ -26,3 +32,4 @@ Code for the paper [_A bisector line field approach to interpolation of orientat
 	```
 	matlab SCARCE_LOOP_RMSD_CALC.m
 	```
+	
