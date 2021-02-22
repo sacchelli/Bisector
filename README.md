@@ -4,7 +4,7 @@ Code for the paper [_A bisector line field approach to interpolation of orientat
 
 
 <p align="center">
-  <img src="https://github.com/sacchelli/Bisector/blob/main/Illustrations/Whorl_workflow.png" width="800" title="From rough fingerprint to smooth orientation field">
+  <img src="https://github.com/sacchelli/Bisector/blob/main/Illustrations/Whorl_workflow.png" width="800" title="From fingerprint to smooth orientation field">
 </p>		
 
 
